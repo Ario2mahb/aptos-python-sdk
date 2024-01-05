@@ -9,7 +9,7 @@ repository = "https://github.com/aptos-labs/aptos-core"
 homepage = "https://github.com/aptos-labs/aptos-core/tree/main/ecosystem/python/sdk"
 keywords = ["web3", "sdk", "aptos", "blockchain"]
 
-[tool.poetry.dependencies]
+[tool.poetry.dependencies]., 
 ecdsa = "0.18.0"
 h2 = "^4.1.0"
 httpx = "^0.24.0"
